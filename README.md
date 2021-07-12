@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+ # Growth Mindset 🤔
+  
+ ### Hi, my name is Zaid Saleh, I am 28 years old am work in the ministry of justice and I finished my second year as a Software student in ASAC. 
+ ### And my favorite hobby is Basketball.
 
-You can use the [editor on GitHub](https://github.com/zaid-saadeh93/Reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Github profile](https://github.com/zaid-saadeh93)
 
-### Markdown
+## What is growth mindset?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![growth mindset](https://thumbs.dreamstime.com/z/growth-mindset-vs-fixed-heads-concept-drawn-yellow-sticky-note-172148280.jpg)
 
-```markdown
-Syntax highlighted code block
+### Growth Mindset
 
-# Header 1
-## Header 2
-### Header 3
+#### While I passed high school and did not complete the stages of success, I was disappointed and began to think with a fixed mindset, which is the exact opposite of the growth mentality, due to frustration and laziness, and it leads to a lot of wasting time and effort on things that have no value or use in life.
 
-- Bulleted
-- List
+#### The best solution to this situation was to gradually change the way of thinking until I reach a growth mindset, But it is not easy to change the way of thinking about life, this stage requires a lot of effort and perseverance.
 
-1. Numbered
-2. List
+#### One of the best ways to change the way of thinking is:
 
-**Bold** and _Italic_ and `Code` text
+* To be positive.
+* rational in thinking.
+* hard work.
+* changing the daily routine by increasing the number of activities.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaid-saadeh93/Reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### through these steps By studying the specialization I want, this is the benefit of the growth mentality for me. Thank you
