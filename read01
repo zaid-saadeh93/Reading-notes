@@ -1,17 +1,16 @@
-#Learning Markdown
+# Learning Markdown
 ### It is one of the characteristics of writing and design on the web is just plain text containing a few non-alphabetic characters, such as # or *.
 
 
-It is possible to modify the text through:
-View the document.
-Format words in bold and italics.
-Add pictures and create lists.
+## It is possible to modify the text through:
+* View the document.
+* Format words in bold and italics.
+* Add pictures and create lists.
 
 
-It is also possible to make some words and sentences attractive to the continent by using (**.........**)
-It can be made italic using (*............*)
-Headings can also be distinguished from sub-headings using the hash (#h1) for headlines
-(##h2) for subtitles
-(#### h3) can be used to class number (h6)
+### It is also possible to make some words and sentences attractive to the continent by using (**.........**)
+### It can be made italic using (*............*)
+### Headings can also be distinguished from sub-headings using the hash (#h1) for headlines, (##h2) for subtitles, (#### h3) can be used to class number (h6)
 
-It is also possible to add images to web pages, and the URL link can also be converted into a direct link. The hashtag @ followed by the user name can be used to be able to bring him to the page and show any comment he makes.
+### It is also possible to add images to web pages, and the URL link can also be converted into a direct link.
+### The hashtag @ followed by the user name can be used to be able to bring him to the page and show any comment he makes.
