@@ -7,5 +7,6 @@
  ---|---
  Ghrowthmindset | [visit Ghrowthmindset](https://zaid-saadeh93.github.io/Reading-notes/Ghrowthmindset)
  read01 | [visit read01](https://zaid-saadeh93.github.io/Reading-notes/read01)
+ read02 | [visit read02](https://zaid-saadeh93.github.io/Reading-notes/read02)
 
  
