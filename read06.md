@@ -1,5 +1,5 @@
 # CSS
-
+![https://armyyazilim.com/wp-content/uploads/2019/10/css.png]
 ### Cascading Style Sheets (CSS) are used to format the layout of a web page.
 
 ## With CSS you can do the following:
