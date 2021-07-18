@@ -10,7 +10,6 @@
  read02 | [visit read02](https://zaid-saadeh93.github.io/Reading-notes/read02)
  read03 | [visit read03](https://zaid-saadeh93.github.io/Reading-notes/read03) 
  read04 | [visit read04](https://zaid-saadeh93.github.io/Reading-notes/read04)
- read06 | [visit read06]
- (https://zaid-saadeh93.github.io/Reading-notes/read06)
+ read06 | [visit read06](https://zaid-saadeh93.github.io/Reading-notes/read06)
 
  
