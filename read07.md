@@ -3,6 +3,7 @@
 
 # Expressions and Operators
 
+
 ### This chapter documents JavaScript expressions and the operators with which many of those expressions are built. An expression is a phrase of JavaScript that can be evaluated to produce a value.
 
  ### A constant embedded literally in your program is a very simple kind of expression. A variable name is also a simple expression that evaluates to whatever value has been assigned to that variable.
@@ -12,6 +13,8 @@
  ### Similarly, a function invocation expression consists of one expression that evaluates to a function object and zero or more additional expressions that are used as the arguments to the function.
 
  ### The most common way to build a complex expression out of simpler expressions is with an operator. An operator combines the values of its operands (usually two of them) in some way and evaluates to a new value. The multiplication operator * is a simple example. The expression x * y evaluates to the product of the values of the expressions x and y. For simplicity, we sometimes say that an operator returns a value rather than “evaluates to” a value.
+
+ ![](https://www.startertutorials.com/corejava/wp-content/uploads/2014/10/Arithmetic-operators.jpg)
 
 
 
@@ -43,3 +46,4 @@
 ### The JavaScript reference contains exhaustive details about the statements in this chapter. The semicolon (;) character is used to separate statements in JavaScript code.
 
 ### Any JavaScript expression is also a statement. See Expressions and operators for complete information about expressions.
+![](https://miro.medium.com/max/1400/1*b6968LD3aRUUykkvrOTCoA.png)
