@@ -12,5 +12,5 @@
  read04 | [visit read04](https://zaid-saadeh93.github.io/Reading-notes/read04)
  read05 | [visit read05](https://zaid-saadeh93.github.io/Reading-notes/read05)
  read06 | [visit read06](https://zaid-saadeh93.github.io/Reading-notes/read06)
-
+read07 | [visit read07](https://zaid-saadeh93.github.io/Reading-notes/read07)
  
